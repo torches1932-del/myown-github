@@ -1,0 +1,5 @@
+了解github的起源及历史
+学习github的常用使用技能
+针对github中常见功能进一步拓展学习
+学习搜索github的使用功能
+学习使用github的开源软件
